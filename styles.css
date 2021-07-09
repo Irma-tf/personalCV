@@ -1,0 +1,142 @@
+body {
+    background-color: #FCDEC0;
+    margin: 0;
+}
+.heading {
+
+    display: block;
+    text-align: center;
+    margin: 10px auto 20px auto;
+    
+}
+
+.profile {
+    margin: 10px 10px 20px 90px;
+}
+
+.profileDesc{
+    line-height: 1.5;
+    width: 35%;
+}
+
+.education {
+    margin: 10px 30px 20px 20px;
+    width: 50%;
+    position: relative;
+    left: 60%;
+}
+
+.educationDesc {
+    line-height: 1.5;
+    width: 50%;
+}
+
+.experience {
+    margin: 10px 10px 20px 90px;
+}
+
+.experienceDesc {
+    line-height: 1.5;
+    width: 35%;
+}
+
+.activities {
+    margin: 10px 30px 20px 20px;
+    width: 50%;
+    position: relative;
+    left: 60%;
+}
+
+.activitiesDesc {
+    line-height: 1.5;
+    width: 50%;
+}
+
+.skills {
+    margin: 10px 10px 20px 90px;
+}
+
+
+.contactMe {
+    margin: 10px 30px 20px 20px;
+    width: 50%;
+    position: relative;
+    left: 60%;
+}
+
+table {
+    width: 50%;
+    
+}
+
+
+
+a {
+    color: #7D5A50;
+    text-decoration: none ;
+}
+
+a:hover {
+    color: indianred;
+
+}
+
+hr {
+    background-color:#FCDEC0 ;
+    border-left: 8px dotted #E5B299;
+    border-top: none;
+    border-right: none;
+    border-bottom: none;
+    position: absolute;
+    left: 50%;
+    height:10%;
+    margin-top: 15px;
+
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 2px solid indianred;
+    border-radius: 5px;
+    box-sizing: border-box;
+    
+}
+button{
+    width: 100%;
+    padding: 10px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 2px solid indianred;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+textarea {
+    margin: 8px 0;
+    border: 2px solid indianred;
+    border-radius: 5px;
+    
+}
+
+
+h1, h3 {
+    text-transform: uppercase;
+    margin:  10px auto ;
+}
+h1 {
+    color: #7D5A50;
+}
+
+h3 {
+    color: #B4846C;
+    
+}
+form {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+
+}
